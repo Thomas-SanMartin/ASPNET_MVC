@@ -22,9 +22,9 @@ This is a sample ASP.NET MVC application created to demonstrate basic functional
    cd AspNetMvcAssignment
    
 3. **Restore Dependencies**
-4. ```bash
+   ```bash
    dotnet restore
    
 5. **Run Application**
-6. ```bash
+   ```bash
    dotnet watch run
